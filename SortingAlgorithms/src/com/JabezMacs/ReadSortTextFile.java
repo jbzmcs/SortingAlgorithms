@@ -42,7 +42,7 @@ public class ReadSortTextFile {
 		// check myTxt
 		// System.out.print(myTxt[0]);
 		// System.out.print(myTxt[8]);
-		bubbleSort(myTxt, count);
+	//	bubbleSort(myTxt, count);
 	//	 gNomeSort(myTxt);
 	//	 combSort(myTxt);
 	//	 bogoSort(myTxt);
